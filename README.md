@@ -7,7 +7,6 @@
 🤝 I'm looking for help with advanced TypeScript implementations and Clean Architecture patterns  
 🌱 I'm currently learning AWS infrastructure, Socket.io for real-time applications, and advanced state management  
 💬 Ask me about MERN stack development, RESTful API design, and e-commerce implementations  
-⚡ Fun fact: My first commercial project (Cozway) was an e-commerce platform handling real payments integration  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davood-hakkim-ndr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davoodhakkimndr@gmail.com) 
